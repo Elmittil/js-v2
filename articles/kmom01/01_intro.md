@@ -9,7 +9,7 @@ Syftet med denna guide är att ge en introduktion till kärnan, de väsentliga d
 
 JavaScript uppdateras flitigt och vid varje uppdatering tillkommer det funktionalitet. Webbläsarna, som renderar JavaScripten, måste då uppdateras för att kunna hantera den nya funktionaliteten. De två "stora" uppdateringarna var ES5 (ca 2009) och ES6 (ca 2015). Den senaste, i skrivande stund, är ECMAScript 2021.
 
-I den här kursen kommer vi ha ett fokus på grunderna i språket och hur det fungerar på klientsidan. De här kursen kommer fokusera på ES6 och bakåt. Vi har valt att inte dra det längre, utan vi håller oss däromkring. Det kan såklart finnas konstruktioner i senare versioner som går att använda, vilket uppmuntras om stödet finns i de vanliga webbläsarna.
+I den här kursen kommer vi ha ett fokus på grunderna i språket och hur det fungerar på klientsidan. Den här kursen kommer fokusera på ES6 och bakåt. Vi har valt att inte dra det längre, utan vi håller oss däromkring. Det kan såklart finnas konstruktioner i senare versioner som går att använda, vilket uppmuntras om stödet finns i de vanliga webbläsarna.
 
 
 
